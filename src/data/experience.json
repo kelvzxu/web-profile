@@ -1,0 +1,11 @@
+{
+    "data": [
+        { "year": "2023 — Now", "role": "Lecturer", "detail": "Computer Science & Information Systems" },
+        { "year": "2022", "role": "Project Manager", "detail": "ERP & digital transformation projects" },
+        { "year": "2021", "role": "ERP Team Lead", "detail": "ERP system development" },
+        { "year": "2020", "role": "ERP Technical Developer", "detail": "Witech Inovasi Indonesia" },
+        { "year": "2019", "role": "Head of Sales & Warehouse", "detail": "Mitra Perwira Sukses" },
+        { "year": "2018", "role": "Funding Sales Officer", "detail": "Bank Sinarmas" },
+        { "year": "2017", "role": "Administrative Staff", "detail": "Segar Kumala Indonesia" }
+    ]
+}

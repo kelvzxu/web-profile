@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "number": "01",
+            "tag": "SYSTEMS",
+            "title": "Intelligent Systems",
+            "copy": "Building practical, data-driven systems that help people and organizations make better decisions."
+        },
+        {
+            "number": "02",
+            "tag": "COMPUTER VISION",
+            "title": "Computer Vision",
+            "copy": "Exploring image understanding, object detection, and visual recognition for real-world problems."
+        },
+        {
+            "number": "03",
+            "tag": "DEEP LEARNING",
+            "title": "Deep Learning",
+            "copy": "Applying and evaluating deep learning methods for image classification and intelligent applications."
+        }
+    ]
+}

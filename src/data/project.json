@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "number": "01",
+            "tag": "ENTERPRISE SYSTEMS",
+            "title": "ERP & Odoo Solutions",
+            "copy": "Custom workflows, reports, and integrations that support day-to-day business operations.",
+            "style": "erp"
+        },
+        {
+            "number": "02",
+            "tag": "COMPUTER VISION",
+            "title": "Face Recognition Attendance",
+            "copy": "An attendance workflow combining face verification with location-aware check-in.",
+            "style": "face"
+        },
+        {
+            "number": "03",
+            "tag": "DEEP LEARNING",
+            "title": "Image Classification Research",
+            "copy": "Experiments with transfer learning and image preprocessing for applied classification tasks.",
+            "style": "vision"
+        }
+    ]
+}

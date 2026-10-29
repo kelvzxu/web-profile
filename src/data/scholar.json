@@ -1,0 +1,198 @@
+{
+  "updatedAt": "2026-10-29T06:53:56.306Z",
+  "metrics": {
+    "citations": 130,
+    "hIndex": 6,
+    "i10Index": 3
+  },
+  "citationHistory": [
+    {
+      "year": 2021,
+      "citations": 1
+    },
+    {
+      "year": 2022,
+      "citations": 6
+    },
+    {
+      "year": 2023,
+      "citations": 26
+    },
+    {
+      "year": 2024,
+      "citations": 33
+    },
+    {
+      "year": 2025,
+      "citations": 33
+    },
+    {
+      "year": 2026,
+      "citations": 27
+    }
+  ],
+  "publications": [
+    {
+      "year": 2022,
+      "type": "Journal",
+      "citations": 49,
+      "title": "Comparative Analysis of C4. 5 and Naïve Bayes Algorithms in Predicting Cerebrovascular Disease",
+      "authors": "KL Kohsasih, Z Situmorang",
+      "venue": "J. Inform 9 (1), 13-17",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NxJb3rEAAAAJ&pagesize=100&citation_for_view=NxJb3rEAAAAJ:WF5omc3nYNoC"
+    },
+    {
+      "year": 2021,
+      "type": "Journal",
+      "citations": 23,
+      "title": "ANALISIS PERBANDINGAN ALGORITMA CONVOLUTIONAL NEURAL NETWORK DAN ALGORITMA MULTI-LAYER PERCEPTRON NEURAL DALAM KLASIFIKASI CITRA SAMPAH",
+      "authors": "KL Kohsasih, T FAHRIYANI, MDA Rizky, V Wijaya, R Rosnelly",
+      "venue": "Jurnal TIMES 10 (2), 22-28",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NxJb3rEAAAAJ&pagesize=100&citation_for_view=NxJb3rEAAAAJ:UeHWp8X0CEIC"
+    },
+    {
+      "year": 2022,
+      "type": "Conference",
+      "citations": 22,
+      "title": "Sentiment Analysis for Financial News Using RNN-LSTM Network",
+      "authors": "KL Kohsasih, BH Hayadi, R Robet, C Juliandy, O Pribadi, A Andi",
+      "venue": "2022 4th International Conference on Cybernetics and Intelligent System …",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NxJb3rEAAAAJ&pagesize=100&citation_for_view=NxJb3rEAAAAJ:W7OEmFMy1HYC"
+    },
+    {
+      "year": 2022,
+      "type": "Journal",
+      "citations": 9,
+      "title": "Classification sars-cov-2 disease based on ct-scan image using convolutional neural network",
+      "authors": "KL Kohsasih, BH Hayadi",
+      "venue": "Scientific Journal of Informatics 9 (2), 197-204",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NxJb3rEAAAAJ&pagesize=100&citation_for_view=NxJb3rEAAAAJ:Y0pCki6q_DkC"
+    },
+    {
+      "year": 2025,
+      "type": "Journal",
+      "citations": 6,
+      "title": "Hybrid Deep Fixed K-Means (HDF-KMeans)",
+      "authors": "MK Zuhanda, KL Kohsasih, P Octaviandy, H Hartono, D Kurnia, N Tarigan, ...",
+      "venue": "International Journal of Engineering, Science and Information Technology 5 …",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NxJb3rEAAAAJ&pagesize=100&citation_for_view=NxJb3rEAAAAJ:MXK_kJrjxJIC"
+    },
+    {
+      "year": 2022,
+      "type": "Conference",
+      "citations": 6,
+      "title": "Comparison of CNN Architecture for White Blood Cells Image Classification",
+      "authors": "KL Kohsasih, M Zarlis, BH Hayadi",
+      "venue": "2022 IEEE International Conference of Computer Science and Information …",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NxJb3rEAAAAJ&pagesize=100&citation_for_view=NxJb3rEAAAAJ:YsMSGLbcyi4C"
+    },
+    {
+      "year": 2025,
+      "type": "Book",
+      "citations": 5,
+      "title": "Buku ajar pengantar ilmu komputer",
+      "authors": "LA Supriyono, C Carudin, HASA Nugroho, J Budiasto, I Zulfa, ...",
+      "venue": "PT. Green Pustaka Indonesia",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NxJb3rEAAAAJ&pagesize=100&citation_for_view=NxJb3rEAAAAJ:roLk4NBRz8UC"
+    },
+    {
+      "year": 2025,
+      "type": "Journal",
+      "citations": 3,
+      "title": "Enhancing Early Heart Disease Detection Through Comparative Analysis of Random Forest, Decision Tree, and K-NN Models",
+      "authors": "KL Kohsasih, DS Sunario, A Alvin, F Laurendio",
+      "venue": "IT Journal Research and Development 10 (2), 66-77",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NxJb3rEAAAAJ&pagesize=100&citation_for_view=NxJb3rEAAAAJ:kNdYIx-mwKoC"
+    },
+    {
+      "year": 2022,
+      "type": "Journal",
+      "citations": 3,
+      "title": "A deep learning model to detect the brain tumor based on magnetic resonance images",
+      "authors": "KL Kohsasih, MDA Rizky, R Rosnelly, WW Widjaja",
+      "venue": "Jurnal Infotel 14 (3), 203-208",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NxJb3rEAAAAJ&pagesize=100&citation_for_view=NxJb3rEAAAAJ:Tyk-4Ss8FVUC"
+    },
+    {
+      "year": 2025,
+      "type": "Journal",
+      "citations": 2,
+      "title": "Penerapan Algoritma Transformer dalam Aplikasi Parafrase Teks Otomatis",
+      "authors": "R Robet, KL Kohsasih, J Darwin",
+      "venue": "TAMIKA: Jurnal Tugas Akhir Manajemen Informatika & Komputerisasi Akuntansi 5 …",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NxJb3rEAAAAJ&pagesize=100&citation_for_view=NxJb3rEAAAAJ:KlAtU1dfN6UC"
+    },
+    {
+      "year": 2026,
+      "type": "Journal",
+      "citations": 1,
+      "title": "A comparative MRI-based study of ResNet-152 and novel deep learning approaches for early Alzheimer’s disease classification",
+      "authors": "KL Kohsasih, O Pribadi, A Andy, DS Sunario",
+      "venue": "TELKOMNIKA (Telecommunication Computing Electronics and Control) 24 (2), 536-548",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NxJb3rEAAAAJ&pagesize=100&citation_for_view=NxJb3rEAAAAJ:ULOm3_A8WrAC"
+    },
+    {
+      "year": 2024,
+      "type": "Journal",
+      "citations": 1,
+      "title": "Comparison of SVM, KNN, And Naïve Bayes Algorithms in Monkeypox Disease Classification",
+      "authors": "KL Kohsasih",
+      "venue": "TAMIKA: Jurnal Tugas Akhir Manajemen Informatika & Komputerisasi Akuntansi 4 …",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NxJb3rEAAAAJ&pagesize=100&citation_for_view=NxJb3rEAAAAJ:hqOjcs7Dif8C"
+    },
+    {
+      "year": 2026,
+      "type": "Journal",
+      "citations": 0,
+      "title": "Optimizing MRI-Based Alzheimer’s Disease Detection Using EfficientNet and Explainable Artificial Intelligence",
+      "authors": "KL Kohsasih, R Robet, JTKP Angin, O Pribadi, H Hendri, J Hendrik",
+      "venue": "Jurnal Informatika 13 (2), 79-90",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NxJb3rEAAAAJ&pagesize=100&citation_for_view=NxJb3rEAAAAJ:4TOpqqG69KYC"
+    },
+    {
+      "year": 2026,
+      "type": "Journal",
+      "citations": 0,
+      "title": "Perancangan Website Analisis Segmentasi Perilaku dan Minat Berlangganan Spotify Premium menggunakan Metode K-Medoids dan Regresi Polinomial",
+      "authors": "C Charles, E Edi, KL Kohsasih",
+      "venue": "Jurnal ilmiah Sistem Informasi dan Ilmu Komputer 6 (2), 268-285",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NxJb3rEAAAAJ&pagesize=100&citation_for_view=NxJb3rEAAAAJ:YOwf2qJgpHMC"
+    },
+    {
+      "year": 2025,
+      "type": "Book",
+      "citations": 0,
+      "title": "Pengantar Big Data: Konsep, Teknologi, dan Aplikasinya",
+      "authors": "JTKP Angin, WA Purnomo, A Juansa, R Robet, O Pribadi, KL Kohsasih",
+      "venue": "Star Digital Publishing",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NxJb3rEAAAAJ&pagesize=100&citation_for_view=NxJb3rEAAAAJ:8k81kl-MbHgC"
+    },
+    {
+      "year": 2025,
+      "type": "Journal",
+      "citations": 0,
+      "title": "Automatic Criminal News Summarization System with Extractive Method Based on Latent",
+      "authors": "C Chandra, R Robet, KL Kohsasih",
+      "venue": "Journal of Artificial Intelligence and Engineering Application 5 (1), 533-538",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NxJb3rEAAAAJ&pagesize=100&citation_for_view=NxJb3rEAAAAJ:3fE2CSJIrl8C"
+    },
+    {
+      "year": 2025,
+      "type": "Other",
+      "citations": 0,
+      "title": "Revisiting SMOTE in Balanced Medical Data: A Comparative Evaluation of SVM, Random Forest, and KNN",
+      "authors": "KL Kohsasih, J Joni, H Herman, P Octaviandy",
+      "venue": "",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NxJb3rEAAAAJ&pagesize=100&citation_for_view=NxJb3rEAAAAJ:Zph67rFs4hoC"
+    },
+    {
+      "year": 2023,
+      "type": "Other",
+      "citations": 0,
+      "title": "ANALISIS PERBANDINGAN ARSITEKTUR ALEXNET, VGG16, VGG19 DAN RESNET50 UNTUK KLASIFIKASI GAMBAR SEL DARAH",
+      "authors": "KL Kohsasih",
+      "venue": "UNIVERSITAS POTENSI UTAMA",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NxJb3rEAAAAJ&pagesize=100&citation_for_view=NxJb3rEAAAAJ:_kc_bZDykSQC"
+    }
+  ]
+}
