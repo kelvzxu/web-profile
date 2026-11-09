@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-02T08:33:42.828Z",
+  "updatedAt": "2026-11-09T08:48:39.692Z",
   "metrics": {
-    "citations": 130,
+    "citations": 131,
     "hIndex": 6,
     "i10Index": 3
   },
@@ -12,11 +12,11 @@
     },
     {
       "year": 2022,
-      "citations": 6
+      "citations": 5
     },
     {
       "year": 2023,
-      "citations": 26
+      "citations": 27
     },
     {
       "year": 2024,
@@ -28,7 +28,7 @@
     },
     {
       "year": 2026,
-      "citations": 27
+      "citations": 28
     }
   ],
   "publications": [
@@ -132,6 +132,15 @@
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NxJb3rEAAAAJ&pagesize=100&citation_for_view=NxJb3rEAAAAJ:ULOm3_A8WrAC"
     },
     {
+      "year": 2025,
+      "type": "Book",
+      "citations": 1,
+      "title": "Pengantar Big Data: Konsep, Teknologi, dan Aplikasinya",
+      "authors": "JTKP Angin, WA Purnomo, A Juansa, R Robet, O Pribadi, KL Kohsasih",
+      "venue": "Star Digital Publishing",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NxJb3rEAAAAJ&pagesize=100&citation_for_view=NxJb3rEAAAAJ:8k81kl-MbHgC"
+    },
+    {
       "year": 2024,
       "type": "Journal",
       "citations": 1,
@@ -157,15 +166,6 @@
       "authors": "C Charles, E Edi, KL Kohsasih",
       "venue": "Jurnal ilmiah Sistem Informasi dan Ilmu Komputer 6 (2), 268-285",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NxJb3rEAAAAJ&pagesize=100&citation_for_view=NxJb3rEAAAAJ:YOwf2qJgpHMC"
-    },
-    {
-      "year": 2025,
-      "type": "Book",
-      "citations": 0,
-      "title": "Pengantar Big Data: Konsep, Teknologi, dan Aplikasinya",
-      "authors": "JTKP Angin, WA Purnomo, A Juansa, R Robet, O Pribadi, KL Kohsasih",
-      "venue": "Star Digital Publishing",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NxJb3rEAAAAJ&pagesize=100&citation_for_view=NxJb3rEAAAAJ:8k81kl-MbHgC"
     },
     {
       "year": 2025,
